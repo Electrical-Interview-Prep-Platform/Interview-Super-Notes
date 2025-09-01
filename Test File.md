@@ -1,0 +1,1 @@
+This is to verify that Obsidian gives me the same flexibility as Word.
